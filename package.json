@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "cookie-parser": "^1.4.5",
+    "cookie-parser": "^1.4.4",
     "ejs": "^2.7.4",
     "express": "^4.17.1",
     "google-auth-library": "^4.2.6",
